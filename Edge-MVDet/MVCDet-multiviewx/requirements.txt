@@ -1,0 +1,9 @@
+torch>=1.8.0
+torchvision>=0.9.0
+numpy
+scipy
+matplotlib
+Pillow
+opencv-python>=4.5.0
+tqdm
+kornia
